@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Mission Mars</label>
+	</settings>
+	<users>
+		<user>
+			<path>Mission Mars.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Mission Mars.jcp</path>
+		</project>
+	</projects>
+</workspace>
